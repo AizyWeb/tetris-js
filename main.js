@@ -221,5 +221,4 @@ function removeRows() {
   })
 }
 
-setInterval(piece.position.y++, 1000)
 update()
